@@ -1,6 +1,6 @@
 # get started:
-*Using a command prompt or terminal, 
-*navigate into desire location (cd address)
+*Using a command prompt or terminal, <br>
+*navigate into desire location (cd address)<br>
 *open VS Code (code) in that folder by entering the following commands:
 code .
 ## Errors:
