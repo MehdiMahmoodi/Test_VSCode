@@ -1,4 +1,4 @@
-# get started:
+# get started:(reference link)[https://code.visualstudio.com/docs/python/python-tutorial]
 *Using a command prompt or terminal, <br>
 *navigate into desire location (cd address)<br>
 *open VS Code (code) in that folder by entering the following commands:
